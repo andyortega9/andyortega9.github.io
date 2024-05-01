@@ -9,9 +9,8 @@ I loved working in this lab mainly because it was my first time coding. I learne
 
 * Lab 4
 
-This was a fun lab because I started to learn how to use arithmetic operators. The lab also included the use of if statements which was new to me. Most importantly, I liked the lab due to the team effort of participating.
+This was a fun lab because I started to learn how to use arithmetic operators. The lab also included the use of if statements which was new to me. Most importantly, I liked the lab due to the team effort of participating and asking questions
 
 * Lab 10
 
-This was a fun lab, considering my partner and I had many similarities. I also enjoyed this lab as I saw myself working the most on the lab, pushing myself beyond my knowledge. Lastly, I felt very proud of working this code, as it was very difficult. 
-
+This was a fun lab, considering my partner and I had many similarities. I learned how to print counties population as well as find lowest and highest population density. I also enjoyed this lab as I saw myself working the most on the lab, pushing myself beyond my knowledge.
